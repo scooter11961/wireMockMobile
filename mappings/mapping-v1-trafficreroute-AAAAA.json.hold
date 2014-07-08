@@ -1,0 +1,24 @@
+{
+  "request" : {
+    "urlPattern" : "/guidance/v1/trafficreroute.*",
+    "method" : "GET"
+  },
+  "response" : {
+    "status" : 200,
+    "bodyFileName" : "body-v1-trafficreroute-AAAAA.json",
+    "headers" : {
+      "Server" : "Apache-Coyote/1.1",
+      "Access-Control-Allow-Origin" : "*",
+      "Access-Control-Allow-Methods" : "OPTIONS,GET,POST",
+      "Set-Cookie" : "JSESSIONID=B6CF6FB39F1D4437A9F9485DAC683DE4; Path=/guidance/; HttpOnly",
+      "Expires" : "Mon, 20 Dec 1998 01:00:00 GMT",
+      "Last-Modified" : "Tue, 24 Jun 2014 21:46:34 GMT",
+      "Cache-Control" : "no-cache, must-revalidate",
+      "Pragma" : "no-cache",
+      "Content-Type" : "application/json;charset=UTF-8",
+      "Transfer-Encoding" : "chunked",
+      "Vary" : "Accept-Encoding",
+      "Date" : "Tue, 24 Jun 2014 21:46:34 GMT"
+    }
+  }
+}
